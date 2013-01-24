@@ -1,4 +1,6 @@
 SGVerwaltung
 ============
 
+Herzlich Willkommen :)
+
 Schulungsgemeinschaftverwaltung
